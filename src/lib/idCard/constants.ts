@@ -21,7 +21,7 @@ export const LAYOUT = {
   photoHeight: 240,
   photoLeft: 130,
   photoTop: 300,
-  textLeft: 620,
+  textLeft: 600,
   nameTop: 380,
   idTop: 440,
   padding: 60,
